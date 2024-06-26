@@ -5,7 +5,7 @@ I am Mikołaj Lipiński and I am a Technical Computer Science student at Wrocła
 - 🌱 I’m currently learning spring framework
 - 📫 How to reach me: mikus261103@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikus3363&layout=donut-vertical&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikus3363&layout=donut-vertical&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **mikus3363/mikus3363** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
