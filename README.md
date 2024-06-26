@@ -1,4 +1,9 @@
 ## Hi there 👋
+I am Mikołaj Lipiński and I am a Technical Computer Science student at Wrocław University of Science and Technology.
+
+- 🔭 I’m currently working on super secret java project
+- 🌱 I’m currently learning spring framework
+- 📫 How to reach me: mikus261103@gmail.com
 
 <!--
 **mikus3363/mikus3363** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
