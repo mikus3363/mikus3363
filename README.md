@@ -11,7 +11,7 @@ I am Mikołaj Lipiński and I am a Technical Computer Science student at Wrocła
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikus3363&langs_count=8)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikus3363&layout=donut-vertical&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikus3363&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **mikus3363/mikus3363** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
