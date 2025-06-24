@@ -2,7 +2,7 @@
 I am Mikołaj Lipiński and I am a Technical Computer Science student at Wrocław University of Science and Technology.
 
 - 🔭 I’m currently working on super secret Unity project
-- 🌱 I’m currently learning VR in Unity
+- 🌱 I’m currently learning XR in Unity
 - 📫 How to reach me: mikus261103@gmail.com
 
 <h4 align="left">Languages and Tools:</h4>
