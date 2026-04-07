@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Mikołaj Lipiński and I am a Bachelor of Engineering in Computer Engineering at Wrocław University of Science and Technology.
+I am Mikołaj Lipiński and I am a Bachelor of Science in Computer Engineering at Wrocław University of Science and Technology.
 
 - 🔭 I’m currently working on super secret Java project
 - 🌱 I’m currently learning ANTLR
