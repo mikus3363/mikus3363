@@ -1,8 +1,8 @@
 ## Hi there 👋
-I am Mikołaj Lipiński and I am a Technical Computer Science student at Wrocław University of Science and Technology.
+I am Mikołaj Lipiński and I am a Bachelor of Engineering in Computer Engineering at Wrocław University of Science and Technology.
 
-- 🔭 I’m currently working on super secret Unity project
-- 🌱 I’m currently learning XR in Unity
+- 🔭 I’m currently working on super secret Java project
+- 🌱 I’m currently learning ANTLR
 - 📫 How to reach me: mikus261103@gmail.com
 
 <h4 align="left">Languages and Tools:</h4>
